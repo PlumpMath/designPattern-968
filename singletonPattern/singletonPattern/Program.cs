@@ -10,7 +10,7 @@ namespace singletonPattern
     {
         static void Main(string[] args)
         {
-            //cSingleTon obj = new cSingleTon();
+            //cSingleTon obj = new cSingleTon(); // it will give compliation error
             cSingleTon obj = cSingleTon.GetInstance();
             obj.count = 10;
             obj.sayHello();

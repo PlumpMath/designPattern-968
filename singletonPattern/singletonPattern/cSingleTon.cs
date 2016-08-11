@@ -10,7 +10,9 @@ namespace singletonPattern
     {
         private static cSingleTon DefInstance = null;
         public int count { set; get; }
-
+        /// <summary>
+        /// private, so that calss can not be instantiated
+        /// </summary>
          private cSingleTon()
         {
              
