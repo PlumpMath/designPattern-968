@@ -9,7 +9,7 @@ namespace singletonPattern
     class cSingleTon
     {
         private static cSingleTon DefInstance = null;
-        private static int count { set; get; }
+        public int count { set; get; }
 
          private cSingleTon()
         {
@@ -26,7 +26,7 @@ namespace singletonPattern
          }
         public void sayHello()
         {
-           Console.WriteLine("hello")
+            Console.WriteLine("hello");
         }
     }
 }

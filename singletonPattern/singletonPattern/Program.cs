@@ -12,7 +12,11 @@ namespace singletonPattern
         {
             //cSingleTon obj = new cSingleTon();
             cSingleTon obj = cSingleTon.GetInstance();
+            obj.count = 10;
             obj.sayHello();
+            Console.ReadKey();
+            cSingleTon obj1 = cSingleTon.GetInstance();
+            Console.WriteLine("count={0}", obj1.count);
             Console.ReadKey();
         }
     }
