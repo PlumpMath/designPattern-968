@@ -1,0 +1,6 @@
+D:\practis\C#\designPattern\singletonPattern\singletonPattern\bin\Debug\singletonPattern.exe.config
+D:\practis\C#\designPattern\singletonPattern\singletonPattern\bin\Debug\singletonPattern.exe
+D:\practis\C#\designPattern\singletonPattern\singletonPattern\bin\Debug\singletonPattern.pdb
+D:\practis\C#\designPattern\singletonPattern\singletonPattern\obj\Debug\singletonPattern.csprojResolveAssemblyReference.cache
+D:\practis\C#\designPattern\singletonPattern\singletonPattern\obj\Debug\singletonPattern.exe
+D:\practis\C#\designPattern\singletonPattern\singletonPattern\obj\Debug\singletonPattern.pdb
